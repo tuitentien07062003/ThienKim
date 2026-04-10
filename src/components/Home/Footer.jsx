@@ -68,18 +68,18 @@ const Footer = ({ lang = 'vi' }) => {
         <div className="md:col-span-3 space-y-4">
           <h4 className="text-white font-bold uppercase tracking-wider text-sm mb-4">{t.col1Title}</h4>
           <ul className="space-y-3 text-sm">
-            <li><a href="#" className="hover:text-amber-500 transition-colors">{t.link1_1}</a></li>
-            <li><a href="#" className="hover:text-amber-500 transition-colors">{t.link1_2}</a></li>
-            <li><a href="#" className="hover:text-amber-500 transition-colors">{t.link1_3}</a></li>
-            <li><a href="#" className="hover:text-amber-500 transition-colors">{t.link1_4}</a></li>
+            <li><a href="/" className="hover:text-amber-500 transition-colors">{t.link1_1}</a></li>
+            <li><a href="/" className="hover:text-amber-500 transition-colors">{t.link1_2}</a></li>
+            <li><a href="/" className="hover:text-amber-500 transition-colors">{t.link1_3}</a></li>
+            <li><a href="/" className="hover:text-amber-500 transition-colors">{t.link1_4}</a></li>
           </ul>
         </div>
 
         <div className="md:col-span-3 space-y-4">
           <h4 className="text-white font-bold uppercase tracking-wider text-sm mb-4">{t.col2Title}</h4>
           <ul className="space-y-3 text-sm">
-            <li><a href="#" className="hover:text-amber-500 transition-colors">{t.link2_1}</a></li>
-            <li><a href="#" className="hover:text-amber-500 transition-colors">{t.link2_2}</a></li>
+            <li><a href="/" className="hover:text-amber-500 transition-colors">{t.link2_1}</a></li>
+            <li><a href="/" className="hover:text-amber-500 transition-colors">{t.link2_2}</a></li>
             <li><a href="#legal" className="hover:text-amber-500 transition-colors">{t.link2_3}</a></li>
           </ul>
         </div>
