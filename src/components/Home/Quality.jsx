@@ -35,13 +35,13 @@ const Quality = ({ lang = 'vi' }) => {
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
         <div className="grid grid-cols-2 gap-4 h-[400px] lg:h-[500px]">
           <div className="bg-slate-700 rounded-lg overflow-hidden row-span-2">
-             <img src="/uploads/product1.jpg" className="w-full h-full object-cover" alt="Fabric 1"/>
+             <img src="/Uploads/product1.jpg" className="w-full h-full object-cover" alt="Fabric 1"/>
           </div>
           <div className="bg-slate-800 rounded-lg overflow-hidden">
-             <img src="/uploads/product2.jpg" className="w-full h-full object-cover" alt="Fabric 2"/>
+             <img src="/Uploads/product2.jpg" className="w-full h-full object-cover" alt="Fabric 2"/>
           </div>
           <div className="bg-slate-600 rounded-lg overflow-hidden">
-             <img src="/uploads/product3.jpg" className="w-full h-full object-cover" alt="Fabric 3"/>
+             <img src="/Uploads/product3.jpg" className="w-full h-full object-cover" alt="Fabric 3"/>
           </div>
         </div>
 

@@ -4,10 +4,10 @@ const Process = ({ lang = 'vi' }) => {
   const [activeStep, setActiveStep] = useState(0);
 
   const stepImages = [
-    "/uploads/process1.jpg", 
-    "/uploads/process2.jpg", 
-    "/uploads/process3.jpg", 
-    "/uploads/process4.jpg"  
+    "/Uploads/process1.jpg", 
+    "/Uploads/process2.jpg", 
+    "/Uploads/process3.jpg", 
+    "/Uploads/process4.jpg"  
   ];
 
   const content = {

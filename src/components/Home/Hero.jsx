@@ -27,7 +27,7 @@ const Hero = ({ lang = 'vi' }) => {
       
       <div 
         className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat w-full h-full"
-        style={{ backgroundImage: "url('/uploads/hero.jpeg')" }}
+        style={{ backgroundImage: "url('/Uploads/hero.jpeg')" }}
       ></div>
 
       <div className="absolute inset-0 z-0 bg-gradient-to-r from-[#0b132c] via-[#0b132c]/80 to-transparent"></div>
