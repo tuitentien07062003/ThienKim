@@ -38,10 +38,10 @@ const Quality = ({ lang = 'vi' }) => {
              <img src="/uploads/product1.jpg" className="w-full h-full object-cover" alt="Fabric 1"/>
           </div>
           <div className="bg-slate-800 rounded-lg overflow-hidden">
-             <img src="uploads/product2.jpg" className="w-full h-full object-cover" alt="Fabric 2"/>
+             <img src="/uploads/product2.jpg" className="w-full h-full object-cover" alt="Fabric 2"/>
           </div>
           <div className="bg-slate-600 rounded-lg overflow-hidden">
-             <img src="uploads/product3.jpg" className="w-full h-full object-cover" alt="Fabric 3"/>
+             <img src="/uploads/product3.jpg" className="w-full h-full object-cover" alt="Fabric 3"/>
           </div>
         </div>
 
