@@ -1,5 +1,7 @@
 import React, { useEffect } from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
+import ProductsPage from './components/Home/ProductPage';
 import 'aos/dist/aos.css';
 import AOS from 'aos';
 
@@ -13,9 +15,12 @@ function App() {
   }, []);
 
   return (
-    <>
-      <Home />
-    </>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/product" element={<ProductsPage />} />
+      </Routes>
+    </Router>
   );
 }
 

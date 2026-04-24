@@ -1,0 +1,183 @@
+{
+  "header": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "process": "Quy trình",
+    "quality": "Chất lượng",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "tag": "THÀNH LẬP TỪ 2016",
+    "titlePrefix": "Thiên Kim —",
+    "titleHighlight": "Nâng Tầm Giá Trị",
+    "titleSuffix": "Qua Từng Đường Kim",
+    "desc": "Điểm đến hàng đầu cho sản xuất may mặc độ chính xác cao, mang lại chất lượng chế tác xuất khẩu cho các đối tác doanh nghiệp toàn cầu.",
+    "btn1": "Nhận Báo Giá"
+  },
+  "storytelling": {
+    "step1": {
+      "type": "Loại hàng 01",
+      "title": "Áo Thun Xuất Khẩu",
+      "desc": "Chuyên dòng vải Cotton 100%, CVC, thun lạnh. Đáp ứng tiêu chuẩn khắt khe từ thị trường Mỹ và EU."
+    },
+    "step2": {
+      "type": "Loại hàng 02",
+      "title": "Áo Khoác Chống Nước",
+      "desc": "Công nghệ ép seam chống thấm, chất liệu cao cấp theo bản vẽ riêng của khách hàng."
+    },
+    "step3": {
+      "type": "Loại hàng 03",
+      "title": "Thời Trang Trẻ Em",
+      "desc": "Vải Organic an toàn, thiết kế đa dạng, sản xuất số lượng lớn theo yêu cầu riêng biệt."
+    }
+  },
+  "featured": {
+    "title": "Sản Phẩm Tiêu Biểu",
+    "desc": "Chúng tôi cung cấp giải pháp may mặc đa dạng, đáp ứng tiêu chuẩn quốc tế cho mọi phân khúc khách hàng.",
+    "all": "Xem tất cả sản phẩm",
+    "categories": {
+      "ao-thun": "Áo thun",
+      "ao-khoac": "Áo khoác",
+      "ao-tre-em": "Áo trẻ em"
+    }
+  },
+  "stats": {
+    "title": "Di Sản Kế Thừa",
+    "desc": "Với hơn một thập kỷ chuyên môn trong ngành, chúng tôi xây dựng quan hệ đối tác dựa trên nền tảng minh bạch và tuân thủ pháp lý.",
+    "taxLabel": "Mã Số Thuế",
+    "stat1Num": "10+",
+    "stat1Label": "Năm Kinh Nghiệm",
+    "stat2Num": "100+",
+    "stat2Label": "Đối Tác Doanh Nghiệp",
+    "stat3Num": "5+",
+    "stat3Label": "Quốc Gia Xuất Khẩu"
+  },
+  "coreValues": {
+    "title": "Định Hướng Phát Triển",
+    "mission": "Sứ Mệnh",
+    "missionDesc": "Mang đến những sản phẩm may mặc có chất lượng 'vàng', góp phần nâng tầm diện mạo và giá trị thương hiệu cho đối tác.",
+    "vision": "Tầm Nhìn",
+    "visionDesc": "Trở thành xí nghiệp gia công may mặc hàng đầu khu vực, tiên phong trong việc ứng dụng công nghệ xanh và sản xuất bền vững.",
+    "core": "Giá Trị Cốt Lõi",
+    "coreDesc": "Tận Tâm trong từng đường kim. Chất Lượng trong từng thước vải. Uy Tín trong mọi cam kết."
+  },
+  "process": {
+    "title": "Quy Trình Sản Xuất",
+    "subtitle": "Tiêu chuẩn hóa mọi công đoạn",
+    "steps": [
+      { "id": "01", "name": "Thiết Kế", "desc": "Tiếp nhận bản vẽ, in bản vẽ chuẩn xác theo yêu cầu khách hàng." },
+      { "id": "02", "name": "Xử Lý & Cắt Vải", "desc": "Trải vải và cắt tự động bằng máy CNC laser theo bản thiết kế." },
+      { "id": "03", "name": "May Vá / Gia Công", "desc": "Đội ngũ thợ may lành nghề tiến hành ráp nối các chi tiết." },
+      { "id": "04", "name": "Đóng Gói & KCS", "desc": "Kiểm tra chất lượng nghiêm ngặt, ủi phẳng và đóng gói xuất xưởng." }
+    ]
+  },
+  "quality": {
+    "tag": "TIÊU CHUẨN THIÊN KIM",
+    "titlePrefix": "Vượt Trên",
+    "titleHighlight": "Bề Mặt Nhìn Thấy",
+    "desc": "Chúng tôi chỉ nhập nguồn nguyên liệu từ các nhà máy được chứng nhận bền vững. Mỗi đường may là một minh chứng cho di sản công nghiệp của chúng tôi.",
+    "f1Title": "Vải Bền Vững",
+    "f1Desc": "Đạt Tiêu chuẩn Tái chế Toàn cầu (GRS) và chứng nhận Oeko-Tex.",
+    "f2Title": "Chế Tác Chính Xác",
+    "f2Desc": "Hệ thống cắt và hoàn thiện tự động hiện đại, công nghệ cao.",
+    "f3Title": "Cam Kết Nhân Đạo",
+    "f3Desc": "Tuyệt đối không sử dụng da thật và lông động vật."
+  },
+  "legal": {
+    "title": "Pháp Lý & Hỗ Trợ",
+    "subtitle": "Minh bạch trong mọi hợp tác",
+    "tabs": {
+      "privacy": "Chính sách Bảo mật",
+      "terms": "Điều khoản",
+      "contact": "Liên hệ",
+      "desc": "Đội ngũ chuyên gia của chúng tôi luôn sẵn sàng lắng nghe yêu cầu của bạn. Vui lòng để lại thông tin, chúng tôi sẽ phản hồi trong vòng 24 giờ làm việc."
+    },
+    "privacy": {
+    "h1": "Chính Sách Bảo Mật Thông Tin",
+    "p1": "Chào mừng bạn đến với thienkimgarment.com. Chúng tôi cam kết bảo vệ quyền riêng tư và tôn trọng tính bảo mật của thông tin cá nhân mà bạn cung cấp. Xin vui lòng đọc kỹ chính sách này trước khi sử dụng trang web hoặc gửi thông tin.",
+    "h2": "1. Thu Thập Thông Tin Cá Nhân",
+    "p2": "Chúng tôi thu thập các thông tin định danh như họ tên, email, số điện thoại và tên công ty khi bạn tự nguyện gửi yêu cầu báo giá hoặc tư vấn. Ngoài ra, hệ thống tự động ghi lại các dữ liệu kỹ thuật: địa chỉ IP, loại trình duyệt, thời gian truy cập và các trang bạn đã xem để cải thiện quản lý trang web.",
+    "h3": "2. Cách Chúng Tôi Sử Dụng Thông Tin",
+    "p3": "Thông tin cá nhân chỉ được dùng cho mục đích nội bộ: (1) Xử lý đơn hàng và cung cấp báo giá sản phẩm; (2) Phân tích và cải thiện trải nghiệm người dùng; (3) Gửi thông tin quảng cáo hoặc thư mời sự kiện nếu bạn đồng ý. Chúng tôi xử lý dữ liệu dựa trên sự cẩn trọng tối đa.",
+    "h4": "3. Chia Sẻ Và Phân Phối Thông Tin",
+    "p4": "Chúng tôi không bán, trao đổi hoặc cho thuê thông tin cá nhân cho bên thứ ba. Thông tin có thể được chia sẻ với các đối tác vận chuyển hoặc cơ quan chính phủ khi: (1) Được pháp luật cho phép hoặc yêu cầu; (2) Ngăn chặn gian lận thực tế hoặc tiềm năng; (3) Điều tra gian lận đã xảy ra.",
+    "h5": "4. Bảo Mật Thông Tin",
+    "p5": "Thông tin cá nhân của bạn được lưu giữ an toàn. Chỉ các nhân viên, đại lý và nhà thầu được ủy quyền (người đã đồng ý giữ thông tin an toàn và bảo mật) mới có quyền tiếp cận. Chúng tôi sử dụng mã hóa SSL để đảm bảo dữ liệu không bị truy cập trái phép.",
+    "h6": "5. Cookie Và Công Nghệ Theo Dõi",
+    "p6": "Trang web sử dụng cookie để thu thập thông tin về loại trình duyệt và hệ điều hành, theo dõi số lượng khách truy cập và hiểu cách khách sử dụng web. Cookie giúp tùy chỉnh trang web cho khách hàng. Bạn có thể chọn từ chối cookie trong cài đặt trình duyệt.",
+    "h7": "6. Quyền Lợi Của Bạn",
+    "p7": "Bạn có quyền truy cập, cập nhật hoặc yêu cầu xóa thông tin cá nhân của mình bất kỳ lúc nào. Bạn cũng có thể chọn ngừng nhận các email tiếp thị từ chúng tôi thông qua liên kết hủy đăng ký trong email.",
+    "h8": "7. Thời Gian Áp Dụng & Thay Đổi",
+    "p8": "Chính sách này áp dụng xuyên suốt thời gian trang web hoạt động. Chúng tôi giữ quyền thay đổi nội dung chính sách. Mọi thay đổi sẽ được đăng tải tại đây và chỉ áp dụng cho các hoạt động trong tương lai, không có giá trị hồi tố.",
+    "h9": "8. Liên Hệ",
+    "p9": "Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật, vui lòng liên hệ với chúng tôi qua email: ctythienkim.garment@gmail.com."
+  },
+  "terms": {
+    "h1": "Điều Khoản Dịch Vụ",
+    "p1": "Việc bạn truy cập và sử dụng hệ thống thienkimgarment.com đồng nghĩa với việc bạn chấp thuận các điều khoản và điều kiện được nêu tại đây. Xin vui lòng đọc kỹ trước khi tiến hành đặt hàng hoặc sử dụng các tài nguyên của chúng tôi.",
+    "h2": "1. Chấp Thuận Điều Khoản",
+    "p2": "Bằng cách sử dụng trang web, bạn cam kết rằng mình có đủ năng lực hành vi dân sự để thực hiện các thỏa thuận này. Chúng tôi có quyền cập nhật, sửa đổi nội dung điều khoản bất cứ lúc nào mà không cần thông báo trước. Các thay đổi sẽ có hiệu lực ngay khi được đăng tải công khai trên trang web.",
+    "h3": "2. Quyền Sở Hữu Trí Tuệ",
+    "p3": "Toàn bộ nội dung trên website bao gồm nhưng không giới hạn: hình ảnh sản phẩm, thiết kế độc quyền, logo, mã nguồn và các bài viết đều thuộc quyền sở hữu của Thiên Kim. Mọi hành vi sao chép, trích dẫn hoặc sử dụng lại cho mục đích thương mại mà chưa có văn bản đồng ý từ chúng tôi sẽ bị coi là vi phạm bản quyền nghiêm trọng.",
+    "h4": "3. Quy Trình Sản Xuất & Đặt Hàng",
+    "p4": "Các đơn hàng sản xuất tại Thiên Kim phải tuân thủ quy trình: (1) Tiếp nhận yêu cầu & báo giá; (2) Ký hợp đồng nguyên tắc; (3) Sản xuất mẫu đối chiếu; (4) Khách hàng đặt cọc (thường từ 30-50% giá trị đơn hàng); (5) Sản xuất đại trà; (6) Kiểm soát chất lượng (KCS) và giao hàng.",
+    "h5": "4. Chính Sách Thanh Toán",
+    "p5": "Chúng tôi chấp nhận các phương thức thanh toán chuyển khoản ngân hàng hoặc tiền mặt theo thỏa thuận trong hợp đồng. Số dư còn lại của đơn hàng phải được quyết toán trước khi hàng xuất kho hoặc theo đúng tiến độ ghi trong hợp đồng kinh tế đã ký kết giữa hai bên.",
+    "h6": "5. Giao Hàng & Bảo Hành",
+    "p6": "Sản phẩm được bảo hành kỹ thuật đối với các lỗi từ nhà sản xuất (đường may, lỗi vải) trong vòng 07 ngày kể từ ngày giao hàng. Thiên Kim không chịu trách nhiệm đối với các hư hỏng phát sinh trong quá trình vận chuyển của bên thứ ba do khách hàng chỉ định hoặc do sử dụng sai hướng dẫn bảo quản.",
+    "h7": "6. Giới Hạn Trách Nhiệm",
+    "p7": "Trong mọi trường hợp, Thiên Kim không chịu trách nhiệm cho các thiệt hại gián tiếp, tổn thất lợi nhuận hoặc cơ hội kinh doanh phát sinh từ việc sử dụng sản phẩm. Chúng tôi được miễn trừ trách nhiệm trong các tình huống bất khả kháng như thiên tai, dịch bệnh hoặc sự gián đoạn chuỗi cung ứng toàn cầu.",
+    "h8": "7. Luật Áp Dụng & Giải Quyết Tranh Chấp",
+    "p8": "Các điều khoản này được điều chỉnh bởi pháp luật hiện hành của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam. Mọi tranh chấp phát sinh sẽ được ưu tiên giải quyết thông qua thương lượng, trường hợp không đạt được thỏa thuận sẽ được đưa ra tòa án có thẩm quyền tại Thành phố Hồ Chí Minh.",
+    "h9": "8. Liên Hệ Hỗ Trợ",
+    "p9": "Mọi thắc mắc hoặc khiếu nại liên quan đến dịch vụ và điều khoản, quý khách vui lòng gửi thông tin về email: ctythienkim.garment@gmail.com để được phản hồi trong vòng 48 giờ."
+  },
+    "contact": {
+      "errorMsg": "Có lỗi xảy ra khi gửi yêu cầu. Vui lòng thử lại sau.",
+      "successTitle": "Gửi Yêu Cầu Thành Công!",
+      "successDesc": "Cảm ơn bạn đã liên hệ. Chúng tôi sẽ phản hồi trong vòng 24 giờ làm việc.",
+      "sendAnother": "Gửi yêu cầu khác"
+    },
+    "form": {
+      "name": "Họ và tên",
+      "email": "Email liên hệ",
+      "phone": "Số điện thoại",
+      "message": "Nội dung yêu cầu",
+      "send": "Gửi yêu cầu ngay",
+      "sending": "Đang gửi..."
+    }
+  },
+  "footer": {
+    "companyName": "Công ty TNHH SX KD Thiên Kim",
+    "address": "Thửa đất số 7887, tờ bản đồ số 5, Khu phố Tây A, Phường Đông Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "techTitle": "CHI TIẾT KỸ THUẬT",
+    "techDesc": "MST: 3702482335 • Chứng nhận ISO 9001:2015",
+    "col1Title": "CÔNG TY",
+    "link1_1": "Tiêu chuẩn Sản xuất",
+    "link1_2": "Báo cáo Bền vững",
+    "link1_3": "Chuỗi cung ứng",
+    "link1_4": "Lịch sử của chúng tôi",
+    "col2Title": "PHÁP LÝ",
+    "link2_1": "Chính sách Bảo mật",
+    "link2_2": "Điều khoản Dịch vụ",
+    "link2_3": "Hỗ trợ Liên hệ",
+    "copyright": "© 2024 Công ty TNHH SX KD Thiên Kim. Bảo lưu mọi quyền. MST: 3702482335"
+  },
+  "chat": {
+    "welcome": "Chào bạn! Mình là trợ lý ảo của Thiên Kim. Bạn cần tư vấn gì ạ?",
+    "placeholder": "Nhập câu hỏi của bạn...",
+    "slogan": "Trợ lý ảo Thiên Kim - Luôn sẵn sàng hỗ trợ bạn!",
+    "limitMsg": "Bạn đã hết lượt tư vấn tự động hôm nay. Để nhận báo giá chi tiết và trao đổi kỹ hơn, vui lòng để lại thông tin tại mục \"Liên Hệ\" bên dưới hoặc gọi Hotline nhé!"
+  },
+
+  "product": {
+    "category": "Danh mục sản phẩm",
+    "all": "Tất cả sản phẩm",
+    "categories": {
+      "ao-thun": "Áo thun",
+      "ao-khoac": "Áo khoác",
+      "ao-tre-em": "Áo trẻ em"
+    },
+    "contact": "Yêu cầu báo giá ngay"
+  }
+}
