@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import ProductsPage from './components/Home/ProductPage';
 import 'aos/dist/aos.css';
 import AOS from 'aos';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   useEffect(() => {
@@ -20,6 +21,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/product" element={<ProductsPage />} />
       </Routes>
+      <Analytics />
     </Router>
   );
 }

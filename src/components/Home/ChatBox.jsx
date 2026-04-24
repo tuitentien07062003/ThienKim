@@ -3,7 +3,7 @@ import { generateChatReply } from '../../api/chat.js';
 import { useTranslation } from 'react-i18next';
 import ReactMarkdown from 'react-markdown';
 
-const MAX_MESSAGES = 10;
+// const MAX_MESSAGES = 10;
 
 const Chatbot = () => {
   const { t, i18n } = useTranslation();
@@ -14,20 +14,20 @@ const Chatbot = () => {
   ]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  const [chatCounter, setChatCounter] = useState(0);
+  // const [chatCounter, setChatCounter] = useState(0);
   const messagesEndRef = useRef(null);
 
-  useEffect(() => {
-  const today = new Date().toDateString(); 
-  const savedData = JSON.parse(localStorage.getItem('chat_session')) || { count: 0, date: today };
-
-  if (savedData.date !== today) {
-    setChatCounter(0);
-    localStorage.setItem('chat_session', JSON.stringify({ count: 0, date: today }));
-  } else {
-    setChatCounter(savedData.count);
-  }
-}, []);
+//  useEffect(() => {
+//  const today = new Date().toDateString(); 
+//  const savedData = JSON.parse(localStorage.getItem('chat_session')) || { count: 0, date: today };
+//
+//  if (savedData.date !== today) {
+//    setChatCounter(0);
+//    localStorage.setItem('chat_session', JSON.stringify({ count: 0, date: today }));
+//  } else {
+//    setChatCounter(savedData.count);
+//  }
+//}, []);
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -38,14 +38,14 @@ const Chatbot = () => {
     e.preventDefault();
     if (!input.trim() || isLoading) return;
 
-    if (chatCounter >= MAX_MESSAGES) {
-      setMessages(prev => [...prev, 
-        { role: 'user', text: input.trim() },
-        { role: 'bot', text: t(`chat.limitMsg`) }
-      ]);
-      setInput('');
-      return;
-    }
+    // if (chatCounter >= MAX_MESSAGES) {
+    //   setMessages(prev => [...prev, 
+    //     { role: 'user', text: input.trim() },
+    //     { role: 'bot', text: t(`chat.limitMsg`) }
+    //   ]);
+    //   setInput('');
+    //   return;
+    // }
 
     const userMsg = input.trim();
     const currentHistory = [...messages];
@@ -56,12 +56,12 @@ const Chatbot = () => {
     try {
       const reply = await generateChatReply(userMsg, currentHistory, lang);
       setMessages(prev => [...prev, { role: 'bot', text: reply }]);
-      const newCount = chatCounter + 1;
-      setChatCounter(newCount);
-      localStorage.setItem('chat_session', JSON.stringify({ 
-      count: newCount, 
-      date: new Date().toDateString()
-    }));
+    //   const newCount = chatCounter + 1;
+    //   setChatCounter(newCount);
+    //   localStorage.setItem('chat_session', JSON.stringify({ 
+    //   count: newCount, 
+    //   date: new Date().toDateString()
+    // }));
       
     } catch (error) {
       setMessages(prev => [...prev, { role: 'bot', text: "Lỗi kết nối, vui lòng thử lại sau!" }]);
