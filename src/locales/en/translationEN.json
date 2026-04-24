@@ -1,0 +1,177 @@
+{
+  "header": {
+    "home": "Home",
+    "products": "Products",
+    "process": "Process",
+    "quality": "Quality",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tag": "ESTABLISHED SINCE 2016",
+    "titlePrefix": "Thien Kim —",
+    "titleHighlight": "Elevating Value",
+    "titleSuffix": "Through Every Stitch",
+    "desc": "A premier destination for high-precision garment manufacturing, delivering export-quality craftsmanship for global partners.",
+    "btn1": "Get a Quote"
+  },
+  "storytelling": {
+    "step1": {
+      "type": "Product Type 01",
+      "title": "Export T-Shirts",
+      "desc": "Specializing in 100% cotton, CVC, and cold stretch fabrics, meeting stringent standards from the US and EU markets."
+    },
+    "step2": {
+      "type": "Product Type 02",
+      "title": "Waterproof Jackets",
+      "desc": "Seam-sealing technology and premium materials tailored to customer specifications."
+    },
+    "step3": {
+      "type": "Product Type 03",
+      "title": "Children's Fashion",
+      "desc": "Safe organic fabrics, diverse designs, and large-scale production according to specific requirements."
+    }
+  },
+  "featured": {
+    "title": "Featured Products",
+    "desc": "We provide diverse garment solutions, meeting international standards for all customer segments.",
+    "all": "View All Products",
+    "categories": {
+      "ao-thun": "T-Shirts",
+      "ao-khoac": "Jackets",
+      "ao-tre-em": "Children's Clothing"
+    }
+  },
+  "stats": {
+    "title": "Certified Heritage",
+    "desc": "With over a decade of industry expertise, we build partnerships on transparency and legal compliance.",
+    "taxLabel": "TAX ID",
+    "stat1Label": "Years of Experience",
+    "stat2Label": "Corporate Partners",
+    "stat3Label": "Export Countries"
+  },
+  "coreValues": {
+    "title": "Development Orientation",
+    "mission": "Our Mission",
+    "missionDesc": "Delivering 'gold' quality garments, elevating the brand value for our partners.",
+    "vision": "Our Vision",
+    "visionDesc": "To become a leading regional garment enterprise, pioneering in green technology.",
+    "core": "Core Values",
+    "coreDesc": "Dedication in every stitch. Quality in every fabric. Prestige in every commitment."
+  },
+  "process": {
+    "title": "Production Process",
+    "subtitle": "Standardizing every stage",
+    "steps": [
+      { "id": "01", "name": "Design", "desc": "Receive patterns and print accurately according to requirements." },
+      { "id": "02", "name": "Cutting", "desc": "Fabric spreading and automatic cutting using CNC laser machines." },
+      { "id": "03", "name": "Sewing", "desc": "Skilled tailoring team assembles the garment details." },
+      { "id": "04", "name": "QC & Packing", "desc": "Strict quality control, ironing, and final packaging." }
+    ]
+  },
+  "quality": {
+    "tag": "THE THIEN KIM STANDARD",
+    "titlePrefix": "Beyond the",
+    "titleHighlight": "Visible Surface",
+    "desc": "We source exclusively from certified sustainable mills. Every seam is a testament to our industrial heritage.",
+    "f1Title": "Sustainable Fabrics",
+    "f1Desc": "Global Recycled Standard (GRS) and Oeko-Tex certified.",
+    "f2Title": "Precision Craft",
+    "f2Desc": "Modern automatic cutting and finishing systems.",
+    "f3Title": "Ethical Commitment",
+    "f3Desc": "No real leather or animal fur used in any process."
+  },
+  "legal": {
+    "title": "Legal & Support",
+    "subtitle": "Transparency in every partnership",
+    "tabs": { "privacy": "Privacy Policy", "terms": "Terms", "contact": "Contact",
+      "desc": "Our team of experts is always ready to listen to your requests. Please leave your information, and we will respond within 24 business hours."
+    },
+    "privacy": {
+    "h1": "Privacy Policy",
+    "p1": "Welcome to thienkimgarment.com. We are committed to protecting your privacy and respecting the confidentiality of the personal information you provide. Please read this policy carefully before using the site or submitting information.",
+    "h2": "1. Collection of Personal Information",
+    "p2": "We collect personally identifiable information such as name, email, phone number, and company name when voluntarily submitted by visitors. Additionally, we automatically collect technical data: IP addresses, browser type, access times, and pages visited to improve website management.",
+    "h3": "2. How We Use Your Information",
+    "p3": "Personal information is used for internal purposes only: (1) Processing orders and providing quotes; (2) Analyzing and improving user experience; (3) Sending promotional materials or event invitations if consented. We handle your data with maximum care.",
+    "h4": "3. Distribution of Information",
+    "p4": "We do not sell, trade, or rent personal information to third parties. Information may be shared with shipping partners or government agencies when: (1) Permitted or required by law; (2) Protecting against or preventing actual or potential fraud; (3) Investigating fraud which has already occurred.",
+    "h5": "4. Data Security",
+    "p5": "Your personal information is kept secure. Only authorized employees, agents, and contractors (who have agreed to keep information secure and confidential) have access to this information. SSL encryption is used to prevent unauthorized access.",
+    "h6": "5. Cookie/Tracking Technology",
+    "p6": "The site uses cookies and tracking technology to gather information such as browser type and operating system, tracking the number of visitors, and understanding how visitors use the site. Cookies help customize the site for visitors. You can disable cookies in your browser settings.",
+    "h7": "6. Your Rights",
+    "p7": "You have the right to access, update, or request the deletion of your personal information at any time. You may also opt-out of receiving marketing emails via the unsubscribe link in our communications.",
+    "h8": "7. Applicability & Changes",
+    "p8": "This policy is applicable throughout the duration of the website's operation. We reserve the right to make changes to this policy. Any changes will be posted here and will only apply to future activities on a prospective basis.",
+    "h9": "8. Contact Us",
+    "p9": "If you have any questions about this privacy policy, please contact us via email at: ctythienkim.garment@gmail.com."
+  },
+  "terms": {
+    "h1": "Terms of Service",
+    "p1": "By accessing and using thienkimgarment.com, you signify your acceptance of these terms and conditions. Please read them carefully before placing an order or using our resources.",
+    "h2": "1. Acceptance of Terms",
+    "p2": "By using the website, you warrant that you have the legal capacity to enter into these agreements. We reserve the right to update or modify the content of these terms at any time without prior notice. Changes are effective immediately upon posting.",
+    "h3": "2. Intellectual Property Rights",
+    "p3": "All content on the website, including but not limited to product images, exclusive designs, logos, source code, and articles, is the property of Thien Kim. Any reproduction, citation, or reuse for commercial purposes without our written consent will be considered a serious copyright infringement.",
+    "h4": "3. Manufacturing & Ordering Process",
+    "p4": "Orders at Thien Kim must follow the standard process: (1) Request & Quotation; (2) Framework Agreement; (3) Sample Production; (4) Client Deposit (typically 30-50%); (5) Mass Production; (6) Quality Control (QC) & Delivery.",
+    "h5": "4. Payment Policy",
+    "p5": "We accept bank transfers or cash payments as agreed in the contract. The remaining balance must be settled before the goods are released from the warehouse or according to the schedule specified in the signed economic contract.",
+    "h6": "5. Delivery & Warranty",
+    "p6": "Products are technically warranted for manufacturing defects (stitching, fabric flaws) within 07 days of delivery. Thien Kim is not responsible for damages during third-party shipping designated by the client or improper care instructions.",
+    "h7": "6. Limitation of Liability",
+    "p7": "In no event shall Thien Kim be liable for indirect damages, loss of profits, or business opportunities arising from the use of products. We are exempt from liability in force majeure situations such as natural disasters, epidemics, or global supply chain disruptions.",
+    "h8": "7. Governing Law & Dispute Resolution",
+    "p8": "These terms are governed by the laws of the Socialist Republic of Vietnam. Any disputes will be prioritized for resolution through negotiation; if an agreement is not reached, the case will be brought to the competent courts in Ho Chi Minh City.",
+    "h9": "8. Contact Support",
+    "p9": "For any questions or complaints regarding services and terms, please email: ctythienkim.garment@gmail.com for a response within 48 hours."
+  },
+    "contact": {
+      "errorMsg": "An error occurred while sending. Please try again later.",
+      "successTitle": "Request Sent Successfully!",
+      "successDesc": "Thank you for reaching out. We will get back to you within 24 working hours.",
+      "sendAnother": "Send another request"
+    },
+    "form": {
+      "name": "Full Name",
+      "email": "Contact Email",
+      "phone": "Phone Number",
+      "message": "Message / Request Details",
+      "send": "Send Request Now",
+      "sending": "Sending..."
+    }
+  },
+  "footer": {
+    "companyName": "Thien Kim Garment Production & Trading Co., Ltd",
+    "address": "Parcel 7887, Map 5, Tay A Quarter, Dong Hoa Ward, Ho Chi Minh City, Vietnam",
+    "techTitle": "TECHNICAL DETAILS",
+    "techDesc": "Tax ID: 3702482335 • ISO 9001:2015 Certified",
+    "col1Title": "COMPANY",
+    "link1_1": "Manufacturing Standards",
+    "link1_2": "Sustainability Report",
+    "link1_3": "Supply Chain",
+    "link1_4": "Our History",
+    "col2Title": "LEGAL",
+    "link2_1": "Privacy Policy",
+    "link2_2": "Terms of Service",
+    "link2_3": "Contact Support",
+    "copyright": "© 2024 Thien Kim Garment Co., Ltd. All rights reserved. Tax ID: 3702482335"
+  },
+  "chat": {
+    "welcome": "Hello! I am Thien Kim's virtual assistant. How can I help you?",
+    "placeholder": "Type your question...",
+    "slogan": "Your 24/7 support for garment manufacturing inquiries.",
+    "limitMsg": "You have reached the maximum number of interactions for today. Please try again tomorrow."
+  },
+
+  "product": {
+    "category": "Category",
+    "all": "All Products",
+    "categories": {
+      "ao-thun": "T-shirts",
+      "ao-khoac": "Jackets",
+      "ao-tre-em": "Children's Clothing"
+    },
+    "contact": "Request Quote Now"
+  }
+}
